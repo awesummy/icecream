@@ -1,0 +1,100 @@
+html, body {
+	height: 100%;
+}
+
+#map {
+	height: 80%;
+	width: 90%;
+	margin-left: 5%;
+}
+
+#content {
+	line-height:150%;
+	padding:10px;
+}
+
+#links {
+	color: #36a5b3;
+}
+
+a:link {
+	text-decoration: none;
+	color: white;
+}
+a:visited  {
+	text-decoration: none;
+	color: white;
+}
+a:active {
+	color: white;
+}
+
+
+
+.footer{
+	font-family: 'Titillium Web', sans-serif;
+	color:#ffffff;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#a2c5ff;
+	font-weight:400;
+	position: relative;
+	margin:-10px;
+	margin-top: 10px;
+    height:60px;
+}
+
+p.subtitle{
+	font-family: 'Advent Pro', sans-serif;
+	text-align:center;
+	font-size:55%;
+	margin-top:7px;
+	letter-spacing:2.5px;
+	text-transform: none;
+	font-weight:400;
+}
+
+.header{
+	font-family: 'Quicksand', sans-serif;
+	background-color:#a2c5ff;
+	color:#ffffff;
+	padding-top:30px;
+	padding-bottom:15px;
+	text-align:center;
+	font-size:210%;
+	letter-spacing:3px;
+	font-weight:700;
+	text-transform:uppercase;
+	margin: -10px;
+}
+
+a.navbar {
+	font-family: 'Quicksand', sans-serif;
+	display: block;
+	width: 250px;
+	color: #FFFFFF;
+	background-color: #a2c5ff;
+	text-align: center;
+	padding: 3%;
+	text-decoration: none;
+}
+
+a.navbar:hover, a.navbar:active {
+	background-color: #ffaea2;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+	padding-top: 1%;
+	text-transform: uppercase;
+}
+
+li {
+	float: left;    
+}
+
+#nav {
+	margin-bottom: 20px;
+	margin-left: 7%
+}
